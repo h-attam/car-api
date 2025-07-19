@@ -20,7 +20,7 @@ Frontend yoktur — sadece backend tarafını içerir.
 - DELETE `/api/v1/cars/ID` (ID'si bilinen araç verisini sil)
 
 # Kullanılan Teknolojiler
-
+- Javascript
 - Express.js
 - nodemon
 
